@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5F82341-57D5-4B4A-8D4D-5D12E106C289}"
+	ProjectSection(SolutionItems) = preProject
+		Personatge.cs = Personatge.cs
+		MarioBross.cs = MarioBross.cs
+		Program.cs = Program.cs
+		Yoshi.cs = Yoshi.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15939B00-0747-4A17-856B-E3050508B7BE}
+	EndGlobalSection
+EndGlobal
